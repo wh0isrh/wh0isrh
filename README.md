@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Learn C# a lot.
 - 🖥 I'm using WebStorm and VSC.
 
-## 💻 My Tech Stack:-
+## 💻 My Tech stack:-
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
