@@ -11,7 +11,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Soon..](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/wh0isrh) |
 | [![AAA](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) | [![Soon..](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/wh0isrh) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Soon...](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/wh0isrh)  |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
