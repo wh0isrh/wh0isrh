@@ -1,7 +1,6 @@
 ## Hi there, I'm rh (rheuss) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### I'm a student, young developer, and learner!
-- 🤖 I'm currently the admin of [OneForAll](https://discord.gg/n2EvRECf88)!
 - 📚 I live and study in France.
 - 🥅 2021 Goals: Learn C# a lot.
 - 🖥 I'm using WebStorm and VSC.
